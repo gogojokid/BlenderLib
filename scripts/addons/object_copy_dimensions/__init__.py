@@ -13,7 +13,7 @@
 bl_info = {
     "name" : "Copy Dimensions",
     "author" : "Mox",
-    "description" : "Copy active object Dimentions to selected, Only Mesh now",
+    "description" : "Copy active object Dimentions to selected, Only Mesh & Lattice now",
     "blender" : (3, 3, 1),
     "version" : (0, 0, 1),
     "location" : "View3D > Object Mode > Sidebar Tab > Context Menu",
@@ -30,7 +30,7 @@ def draw_menu(self, context):
 
     if context.object.mode == "OBJECT" and len(context.selected_objects) > 1:
         for o in context.selected_objects:
-            if o.type != 'MESH':
+            if o.type != 'MESH' and o.type != 'LATTICE':
                 canCopy = False
                 break
     else: canCopy = False
