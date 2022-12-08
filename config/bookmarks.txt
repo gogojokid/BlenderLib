@@ -1,13 +1,12 @@
 [Bookmarks]
 [Recent]
-D:\Blender\
-I:\BlenderProject\
-I:\BlenderProject\TextureTest\
-K:\AEProject\ChangtingPublish_202209\
-C:\Users\gogoj\OneDrive\GameMaker\Crow\crow动作样本\
-!CurrentProject (I:)
-I:\
-C:\WAFFLE\巓枀偲側偆丅\manual\img\
-G:\File Transfer\hgfdk\
-F:\素材\3D材质\
-G:\File Transfer\Onoko to. ACT 7 Otosare Onoko\
+L:\Models\BOTW\Wii U - The Legend of Zelda Breath of the Wild - Link\
+L:\Models\BOTW\Wii U - The Legend of Zelda Breath of the Wild - Calamity Ganon\
+L:\Models\BOTW\Wii U - The Legend of Zelda Breath of the Wild - Bokoblin\
+L:\Textures\BOTW\Wii U - The Legend of Zelda Breath of the Wild - Ground Textures\
+I:\BlenderProject\ChangtingDragon\
+H:\BlenderTemp\
+L:\Models\BOTW\Wii U - The Legend of Zelda Breath of the Wild - Cucco\
+L:\Models\BOTW\Wii U - The Legend of Zelda Breath of the Wild - Beedle\
+K:\BlenderProject\ChangTingDragonJr\
+I:\BlenderProject\ChangtingDragon\Ref\
