@@ -1,10 +1,10 @@
 I:\BlenderProject\ChangtingDragon\ChangtingDragon.blend
-I:\BlenderProject\ChangtingDragon\ChangtingDragon_001.blend
-I:\BlenderProject\ChangtingDragon\ChangtingDragonJr.blend
-I:\BlenderProject\Prices.blend
-F:\BlenderAssets\Organic\Ungulate\Camel_A.blend
-C:\Users\gogoj\Downloads\texture-mesh-test-blender3.blend
-F:\BlenderAssets\Organic\Ungulate\Camel.blend
-F:\BlenderAssets\Natural Object\Rock\MossRock_A.blend
-F:\BlenderAssets\Products\FoodCans_A_Set.blend
-F:\BlenderAssets\Organic\Ungulate\Horse_A.blend
+F:\BlenderAssets\Demo\blender-3.4\pro\lib\cam\camera_rig.blend
+F:\BlenderAssets\Demo\blender-3.4\pro\lib\char\pack_bot\publish\pack_bot.v002.blend
+F:\BlenderAssets\Demo\blender-3.4\pro\lib\char\einar\publish\einar.v004.blend
+F:\BlenderAssets\Demo\blender-3.4\pro\lib\env\scrapyard\scrapyard.blend
+F:\BlenderAssets\Demo\blender-3.4\pro\lib\fx\lightning_fx\lightning_fx.blend
+F:\BlenderAssets\Demo\blender-3.4\pro\lib\fx\fire_fx\fire_fx.blend
+F:\BlenderAssets\Demo\blender-3.4\pro\lib\fx\battery_explosion\battery_explosion.blend
+F:\BlenderAssets\Demo\blender-3.4\pro\lib\lgt\world.blend
+F:\BlenderAssets\Demo\blender-3.4\pro\lib\nodes\utilities.blend

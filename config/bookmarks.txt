@@ -1,12 +1,12 @@
 [Bookmarks]
 [Recent]
+H:\BlenderTemp\
+I:\BlenderProject\ChangtingDragon\
+F:\BlenderAssets\Organic\HumanLike\Components\
+F:\BlenderAssets\Demo\blender-3.4\textures\
+F:\BlenderAssets\Demo\
 L:\Models\BOTW\Wii U - The Legend of Zelda Breath of the Wild - Link\
 L:\Models\BOTW\Wii U - The Legend of Zelda Breath of the Wild - Calamity Ganon\
 L:\Models\BOTW\Wii U - The Legend of Zelda Breath of the Wild - Bokoblin\
 L:\Textures\BOTW\Wii U - The Legend of Zelda Breath of the Wild - Ground Textures\
-I:\BlenderProject\ChangtingDragon\
-H:\BlenderTemp\
 L:\Models\BOTW\Wii U - The Legend of Zelda Breath of the Wild - Cucco\
-L:\Models\BOTW\Wii U - The Legend of Zelda Breath of the Wild - Beedle\
-K:\BlenderProject\ChangTingDragonJr\
-I:\BlenderProject\ChangtingDragon\Ref\
